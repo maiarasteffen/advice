@@ -31,8 +31,8 @@ O desafio constiste em:
 
 ### Link
 
-- Código do desenvolvimento: [NFT Card](https://github.com/maiarasteffen/advice)
-- Front do projeto: [Front]()
+- Código do desenvolvimento: [Card](https://github.com/maiarasteffen/advice)
+- Front do projeto: [Front](https://heartfelt-concha-c5920d.netlify.app/)
 
 ## Meu processo
 
