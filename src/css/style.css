@@ -1,0 +1,62 @@
+body {
+    background-color: var(--background-color);
+    font-family: 'Manrope', sans-serif;
+    color: var(--text-color);
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 25px;
+}
+
+.card {
+    width: 540px;
+    height: 330px;
+    background-color: var(--card-color);
+    border-radius: 15px;
+    text-align: center;
+}
+
+.advice {
+    font-size: 13px;
+    color: var(--button-color);
+    letter-spacing: .3rem;
+    margin-top: 50px;
+}
+
+.quote { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: 800; 
+    margin: 25px 40px;
+}
+
+.divider {
+    margin-top: 10px;
+}
+
+.icon {
+    background-color: var(--button-color);
+    border-radius: 50%;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    margin-left: 230px;
+    transform: translateY(50%);
+    cursor: pointer;
+}
+
+.icon:hover {
+    color: #53FFAB;
+    box-shadow: 0 5px 15px hsl(150, 100%, 66%);
+}
+
